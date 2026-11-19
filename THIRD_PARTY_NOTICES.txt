@@ -1,0 +1,127 @@
+THIRD-PARTY SOFTWARE NOTICES
+Project: AI Hand Gym
+Purpose: AI-based Hand Exercise Game
+
+==================================================
+1. PYTHON
+==================================================
+
+Name: Python
+Version: 3.10
+License: Python Software Foundation License (PSF)
+
+Copyright (c) Python Software Foundation.
+
+Official Website:
+https://www.python.org/
+
+License:
+https://docs.python.org/3/license.html
+
+
+==================================================
+2. PYGAME
+==================================================
+
+Name: Pygame
+Version: 2.6.1
+License: GNU Lesser General Public License (LGPL) 2.1 or later
+
+Copyright belongs to the respective Pygame contributors.
+
+Official Website:
+https://www.pygame.org/
+
+License:
+https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+
+
+==================================================
+3. OPENCV
+==================================================
+
+Name: OpenCV
+Version: 4.10.0.84
+License: Apache License 2.0
+
+Copyright belongs to the respective OpenCV contributors.
+
+Official Website:
+https://opencv.org/
+
+License:
+https://www.apache.org/licenses/LICENSE-2.0
+
+
+==================================================
+4. MEDIAPIPE
+==================================================
+
+Name: MediaPipe
+Version: 0.10.14
+License: Apache License 2.0
+
+Copyright belongs to Google LLC and the respective contributors.
+
+Official Website:
+https://ai.google.dev/edge/mediapipe
+
+License:
+https://www.apache.org/licenses/LICENSE-2.0
+
+
+==================================================
+5. NUMPY
+==================================================
+
+Name: NumPy
+Version: 1.26.4
+License: BSD 3-Clause License
+
+Copyright belongs to the respective NumPy contributors.
+
+Official Website:
+https://numpy.org/
+
+License:
+https://github.com/numpy/numpy/blob/main/LICENSE.txt
+
+
+==================================================
+6. MICROSOFT SEGOE UI EMOJI
+==================================================
+
+Name: Segoe UI Emoji
+Copyright: Microsoft Corporation
+
+This project may use the Segoe UI Emoji font installed
+on the Windows operating system.
+
+The font file is not included or redistributed with
+this project.
+
+Use of the font is subject to Microsoft's applicable
+font licensing terms.
+
+Official Website:
+https://www.microsoft.com/
+
+
+==================================================
+NOTICE
+==================================================
+
+This document lists the direct dependencies currently
+identified in the project requirements.
+
+Additional indirect dependencies may be installed
+through the package management system.
+
+Their licenses and copyright notices should be reviewed
+before commercial redistribution.
+
+All third-party software remains the property of its
+respective copyright holders.
+
+This notice does not replace or modify the original
+licenses of the listed software.
