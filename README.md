@@ -59,8 +59,6 @@ MediaPipe가 검출한 손의 랜드마크 정보를 바탕으로 손가락의 �
 - 목표 동작을 약 0.8초 동안 유지하면 성공으로 판정합니다.
 - 성공하면 10점을 획득하고 다음 라운드로 넘어갑니다.
 
-<img width="426" height="240" alt="양손모드" src="https://github.com/user-attachments/assets/7808c5ec-b948-4558-ad82-5280c2c7ca13" />
-
 ### 2.5 화면 및 사용자 인터페이스
 
 - 목표 손동작과 함께 이모티콘 및 동작 안내 문구를 표시합니다.
@@ -81,6 +79,9 @@ MediaPipe가 검출한 손의 랜드마크 정보를 바탕으로 손가락의 �
 8. 다음 라운드에서는 직전 라운드와 다른 손동작이 제시됩니다.
 9. 위 과정을 총 10라운드 반복합니다.
 10. 모든 라운드가 완료되면 최종 점수와 총 소요 시간이 표시됩니다.
+
+<img width="426" height="240" alt="양손모드" src="https://github.com/user-attachments/assets/7808c5ec-b948-4558-ad82-5280c2c7ca13" />
+<img width="426" height="240" alt="양손모드1" src="https://github.com/user-attachments/assets/cfa7e4c1-780c-4d9f-9d32-d2ffbd83ed41" />
 
 ## 4. 점수 및 게임 설정
 
